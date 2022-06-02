@@ -6,7 +6,7 @@
 var isSubsequence = function(s, t) {
     s = s.split("");
     t = t.split("");
-    console.log(s)
+
     while(t.length){
         if(t[0] === s[0]) {
             s.shift();
