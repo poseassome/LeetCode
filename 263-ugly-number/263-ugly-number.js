@@ -11,5 +11,5 @@ var isUgly = function(n) {
             n = n/factors[i];
         }
     }
-     return n === 1
+    return n === 1
 };
