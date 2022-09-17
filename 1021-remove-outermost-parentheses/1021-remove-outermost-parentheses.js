@@ -8,7 +8,7 @@ var removeOuterParentheses = function(s) {
 	for(const x of s){
         if(x === '(') cnt++;
         if(cnt !== 1) answer += x;
-        if(x === ')') cnt-- ;
+        if(x === ')') cnt--;
 	}
 	return answer;
 };
