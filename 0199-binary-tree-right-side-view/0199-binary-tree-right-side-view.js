@@ -11,16 +11,14 @@
  * @return {number[]}
  */
 var rightSideView = function(root) {
-    if (!root) return [];
     let res = [];
-    pre(root, 0);
-    return res;
-    
-    function pre(node, h) {
-        if (!node) return;
-        res[h] = node.val;
-        pre(node.left, h+1);
-        pre(node.right, h+1);
+    if(!root) return res;
+    const DFS = (root, level) => {
+        if(!root) return;
+        res[level] = root.val;
+        DFS(root.left, level+1);
+        DFS(root.right, level+1);
     }
-
+    DFS(root, 0);
+    return res;
 };
