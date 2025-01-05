@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
@@ -103,4 +104,16 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+## Math
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
