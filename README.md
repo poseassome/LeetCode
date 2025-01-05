@@ -10,6 +10,7 @@
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3632-button-with-longest-push-time](https://github.com/poseassome/LeetCode/tree/master/3632-button-with-longest-push-time) |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 <!---LeetCode Topics End-->
