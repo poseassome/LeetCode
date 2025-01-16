@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/poseassome/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Design
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [3684-substring-matching-pattern](https://github.com/poseassome/LeetCode/tree/master/3684-substring-matching-pattern) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
