@@ -24,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/poseassome/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/poseassome/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
