@@ -6,6 +6,7 @@
 | ------- |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/poseassome/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/poseassome/LeetCode/tree/master/0468-validate-ip-address) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/poseassome/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0583-delete-operation-for-two-strings](https://github.com/poseassome/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
@@ -81,6 +83,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/poseassome/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
@@ -91,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/poseassome/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
