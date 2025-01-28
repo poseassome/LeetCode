@@ -48,6 +48,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poseassome/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
@@ -73,6 +75,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poseassome/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Union Find
@@ -82,6 +85,7 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Two Pointers
@@ -191,4 +195,8 @@
 |  |
 | ------- |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
