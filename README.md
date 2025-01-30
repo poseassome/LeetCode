@@ -148,6 +148,7 @@
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
+| [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/poseassome/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
+| [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 ## Linked List
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 ## Shortest Path
 |  |
