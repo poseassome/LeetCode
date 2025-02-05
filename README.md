@@ -46,6 +46,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/poseassome/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [3684-substring-matching-pattern](https://github.com/poseassome/LeetCode/tree/master/3684-substring-matching-pattern) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/poseassome/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/poseassome/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Number Theory
 |  |
 | ------- |
