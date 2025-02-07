@@ -19,6 +19,7 @@
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -32,6 +33,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3651-transformed-array](https://github.com/poseassome/LeetCode/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -165,6 +167,7 @@
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/poseassome/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/poseassome/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Enumeration
 |  |
 | ------- |
