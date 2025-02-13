@@ -24,6 +24,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3632-button-with-longest-push-time](https://github.com/poseassome/LeetCode/tree/master/3632-button-with-longest-push-time) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/poseassome/LeetCode/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/poseassome/LeetCode/tree/master/3651-transformed-array) |
 ## Hash Table
@@ -66,6 +68,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -178,6 +181,7 @@
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/poseassome/LeetCode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/poseassome/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
