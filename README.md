@@ -64,6 +64,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/poseassome/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/poseassome/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
@@ -84,6 +85,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [3396-valid-word](https://github.com/poseassome/LeetCode/tree/master/3396-valid-word) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/poseassome/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3684-substring-matching-pattern](https://github.com/poseassome/LeetCode/tree/master/3684-substring-matching-pattern) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/poseassome/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poseassome/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
