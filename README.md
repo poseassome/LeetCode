@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
@@ -202,6 +203,7 @@
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 ## Dynamic Programming
 |  |
@@ -240,6 +242,7 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poseassome/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/poseassome/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/poseassome/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Counting
 |  |
@@ -281,4 +284,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
