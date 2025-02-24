@@ -187,6 +187,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -216,6 +217,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
@@ -305,4 +307,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
