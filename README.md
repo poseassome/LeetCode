@@ -13,6 +13,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/poseassome/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/poseassome/LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0598-range-addition-ii](https://github.com/poseassome/LeetCode/tree/master/0598-range-addition-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
@@ -200,6 +201,7 @@
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/poseassome/LeetCode/tree/master/0598-range-addition-ii) |
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
