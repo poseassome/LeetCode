@@ -35,6 +35,7 @@
 | [3651-transformed-array](https://github.com/poseassome/LeetCode/tree/master/3651-transformed-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/poseassome/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/poseassome/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/poseassome/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3723-sum-of-good-numbers](https://github.com/poseassome/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/poseassome/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/poseassome/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -45,6 +46,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/poseassome/LeetCode/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/poseassome/LeetCode/tree/master/3651-transformed-array) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/poseassome/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -240,6 +242,7 @@
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/poseassome/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Enumeration
 |  |
 | ------- |
