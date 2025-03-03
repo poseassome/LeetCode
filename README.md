@@ -90,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/poseassome/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0424-longest-repeating-character-replacement](https://github.com/poseassome/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/poseassome/LeetCode/tree/master/0468-validate-ip-address) |
