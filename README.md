@@ -232,6 +232,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/poseassome/LeetCode/tree/master/0155-min-stack) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 ## Randomized
 |  |
@@ -340,4 +341,8 @@
 | ------- |
 | [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/poseassome/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
