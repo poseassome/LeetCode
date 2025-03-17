@@ -232,6 +232,7 @@
 | [0598-range-addition-ii](https://github.com/poseassome/LeetCode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/poseassome/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
@@ -267,6 +268,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/poseassome/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/poseassome/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0815-champagne-tower](https://github.com/poseassome/LeetCode/tree/master/0815-champagne-tower) |
+| [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 ## Matrix
@@ -371,4 +373,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
