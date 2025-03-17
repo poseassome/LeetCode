@@ -44,6 +44,7 @@
 | [3731-sum-of-variable-length-subarrays](https://github.com/poseassome/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/poseassome/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/poseassome/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/poseassome/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poseassome/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/poseassome/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -355,6 +358,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/poseassome/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
+| [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
