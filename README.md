@@ -37,6 +37,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/poseassome/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/poseassome/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3632-button-with-longest-push-time](https://github.com/poseassome/LeetCode/tree/master/3632-button-with-longest-push-time) |
@@ -349,6 +350,7 @@
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/poseassome/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
