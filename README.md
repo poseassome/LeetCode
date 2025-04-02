@@ -57,6 +57,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/poseassome/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/poseassome/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Simulation
 |  |
 | ------- |
