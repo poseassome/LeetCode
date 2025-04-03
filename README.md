@@ -72,6 +72,7 @@
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/poseassome/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/poseassome/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poseassome/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
