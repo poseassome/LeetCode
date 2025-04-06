@@ -151,6 +151,7 @@
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 ## Math
 |  |
 | ------- |
@@ -291,6 +294,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Randomized
 |  |
