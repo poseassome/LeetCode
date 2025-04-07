@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/poseassome/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -179,6 +180,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/poseassome/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/poseassome/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/poseassome/LeetCode/tree/master/0633-sum-of-square-numbers) |
