@@ -57,6 +57,7 @@
 | [3723-sum-of-good-numbers](https://github.com/poseassome/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/poseassome/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/poseassome/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/poseassome/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/poseassome/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/poseassome/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -123,6 +124,7 @@
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/poseassome/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -214,6 +216,7 @@
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/poseassome/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
 |  |
@@ -234,6 +237,7 @@
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/poseassome/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
@@ -336,6 +340,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/poseassome/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Enumeration
 |  |
 | ------- |
