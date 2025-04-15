@@ -66,6 +66,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/poseassome/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/poseassome/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/poseassome/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Design
 |  |
 | ------- |
