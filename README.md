@@ -32,6 +32,7 @@
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
+| [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -145,6 +146,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [3396-valid-word](https://github.com/poseassome/LeetCode/tree/master/3396-valid-word) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/poseassome/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/poseassome/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -218,6 +220,7 @@
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
+| [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
