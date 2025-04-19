@@ -38,6 +38,7 @@
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/poseassome/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
+| [1751-slowest-key](https://github.com/poseassome/LeetCode/tree/master/1751-slowest-key) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -148,6 +149,7 @@
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [1751-slowest-key](https://github.com/poseassome/LeetCode/tree/master/1751-slowest-key) |
 | [3396-valid-word](https://github.com/poseassome/LeetCode/tree/master/3396-valid-word) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/poseassome/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/poseassome/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
