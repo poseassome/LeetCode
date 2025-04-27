@@ -20,6 +20,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0598-range-addition-ii](https://github.com/poseassome/LeetCode/tree/master/0598-range-addition-ii) |
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -366,6 +367,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
+| [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
