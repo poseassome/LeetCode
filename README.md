@@ -45,6 +45,7 @@
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/poseassome/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
