@@ -278,6 +278,7 @@
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/poseassome/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [1279-prime-arrangements](https://github.com/poseassome/LeetCode/tree/master/1279-prime-arrangements) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/poseassome/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/poseassome/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
