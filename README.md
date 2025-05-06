@@ -43,6 +43,7 @@
 | [1751-slowest-key](https://github.com/poseassome/LeetCode/tree/master/1751-slowest-key) |
 | [1803-average-waiting-time](https://github.com/poseassome/LeetCode/tree/master/1803-average-waiting-time) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/poseassome/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -333,6 +334,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [1279-prime-arrangements](https://github.com/poseassome/LeetCode/tree/master/1279-prime-arrangements) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/poseassome/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/poseassome/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
