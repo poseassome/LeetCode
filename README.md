@@ -173,6 +173,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/poseassome/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1652-minimum-suffix-flips](https://github.com/poseassome/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [1751-slowest-key](https://github.com/poseassome/LeetCode/tree/master/1751-slowest-key) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -294,6 +295,7 @@
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
+| [1652-minimum-suffix-flips](https://github.com/poseassome/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [3151-minimum-processing-time](https://github.com/poseassome/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/poseassome/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
