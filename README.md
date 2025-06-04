@@ -190,6 +190,7 @@
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/poseassome/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1652-minimum-suffix-flips](https://github.com/poseassome/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [1751-slowest-key](https://github.com/poseassome/LeetCode/tree/master/1751-slowest-key) |
@@ -337,6 +338,7 @@
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/poseassome/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/poseassome/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
@@ -422,6 +424,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
+| [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Randomized
@@ -579,6 +582,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
 ## Probability and Statistics
 |  |
 | ------- |
