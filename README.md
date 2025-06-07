@@ -328,6 +328,7 @@
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
 | [1652-minimum-suffix-flips](https://github.com/poseassome/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/poseassome/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2663-distribute-money-to-maximum-children](https://github.com/poseassome/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
 | [3151-minimum-processing-time](https://github.com/poseassome/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/poseassome/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -400,6 +401,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/poseassome/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/poseassome/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/poseassome/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2663-distribute-money-to-maximum-children](https://github.com/poseassome/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/poseassome/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
