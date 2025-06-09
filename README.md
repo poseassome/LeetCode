@@ -223,6 +223,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/poseassome/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/poseassome/LeetCode/tree/master/1731-even-odd-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/poseassome/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -241,6 +242,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/poseassome/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/poseassome/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/poseassome/LeetCode/tree/master/1731-even-odd-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/poseassome/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
@@ -376,6 +379,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/poseassome/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/poseassome/LeetCode/tree/master/1731-even-odd-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/poseassome/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Math
