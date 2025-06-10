@@ -63,6 +63,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3151-minimum-processing-time](https://github.com/poseassome/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/poseassome/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/poseassome/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -298,6 +299,7 @@
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/poseassome/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [3151-minimum-processing-time](https://github.com/poseassome/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/poseassome/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/poseassome/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -334,6 +336,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/poseassome/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2663-distribute-money-to-maximum-children](https://github.com/poseassome/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
 | [3151-minimum-processing-time](https://github.com/poseassome/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/poseassome/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/poseassome/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
