@@ -412,6 +412,7 @@
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [1279-prime-arrangements](https://github.com/poseassome/LeetCode/tree/master/1279-prime-arrangements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1585-the-kth-factor-of-n](https://github.com/poseassome/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/poseassome/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/poseassome/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/poseassome/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -535,6 +536,7 @@
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
+| [1585-the-kth-factor-of-n](https://github.com/poseassome/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/poseassome/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
