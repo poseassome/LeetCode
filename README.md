@@ -178,6 +178,7 @@
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1955-seat-reservation-manager](https://github.com/poseassome/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -453,6 +454,7 @@
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
+| [1955-seat-reservation-manager](https://github.com/poseassome/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Randomized
 |  |
