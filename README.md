@@ -119,6 +119,7 @@
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/poseassome/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3893-generate-tag-for-video-caption](https://github.com/poseassome/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/poseassome/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3893-generate-tag-for-video-caption](https://github.com/poseassome/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Breadth-First Search
 |  |
 | ------- |
