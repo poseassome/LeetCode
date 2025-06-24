@@ -60,6 +60,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/poseassome/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/poseassome/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -323,6 +324,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/poseassome/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/poseassome/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/poseassome/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3151-minimum-processing-time](https://github.com/poseassome/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/poseassome/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -515,6 +517,7 @@
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/poseassome/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/poseassome/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
