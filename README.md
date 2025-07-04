@@ -60,6 +60,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/poseassome/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/poseassome/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -260,6 +261,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/poseassome/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/poseassome/LeetCode/tree/master/1731-even-odd-tree) |
 | [1876-map-of-highest-peak](https://github.com/poseassome/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/poseassome/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
@@ -280,12 +282,14 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/poseassome/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/poseassome/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -541,6 +545,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/poseassome/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/poseassome/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
+| [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
