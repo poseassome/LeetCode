@@ -339,6 +339,7 @@
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/poseassome/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/poseassome/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/poseassome/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -525,6 +526,7 @@
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/poseassome/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/poseassome/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/poseassome/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -694,4 +696,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
