@@ -39,6 +39,7 @@
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
+| [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/poseassome/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -531,6 +532,7 @@
 | [0815-champagne-tower](https://github.com/poseassome/LeetCode/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/poseassome/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
