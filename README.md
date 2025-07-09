@@ -627,6 +627,7 @@
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/poseassome/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/poseassome/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/poseassome/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
