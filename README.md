@@ -68,6 +68,7 @@
 | [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/poseassome/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -119,6 +120,7 @@
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/poseassome/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1803-average-waiting-time](https://github.com/poseassome/LeetCode/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -165,6 +167,7 @@
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/poseassome/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/poseassome/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -559,6 +562,7 @@
 | [1876-map-of-highest-peak](https://github.com/poseassome/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
+| [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
