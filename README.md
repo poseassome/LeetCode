@@ -52,6 +52,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/poseassome/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1449-print-words-vertically](https://github.com/poseassome/LeetCode/tree/master/1449-print-words-vertically) |
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
 | [1675-magnetic-force-between-two-balls](https://github.com/poseassome/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -117,6 +118,7 @@
 | [0495-teemo-attacking](https://github.com/poseassome/LeetCode/tree/master/0495-teemo-attacking) |
 | [1310-watering-plants](https://github.com/poseassome/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/poseassome/LeetCode/tree/master/1324-where-will-the-ball-fall) |
+| [1449-print-words-vertically](https://github.com/poseassome/LeetCode/tree/master/1449-print-words-vertically) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/poseassome/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1803-average-waiting-time](https://github.com/poseassome/LeetCode/tree/master/1803-average-waiting-time) |
 | [1971-incremental-memory-leak](https://github.com/poseassome/LeetCode/tree/master/1971-incremental-memory-leak) |
@@ -229,6 +231,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
+| [1449-print-words-vertically](https://github.com/poseassome/LeetCode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/poseassome/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/poseassome/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/poseassome/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
