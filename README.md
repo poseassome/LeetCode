@@ -52,6 +52,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/poseassome/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1449-print-words-vertically](https://github.com/poseassome/LeetCode/tree/master/1449-print-words-vertically) |
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
@@ -421,6 +422,7 @@
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
+| [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/poseassome/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/poseassome/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/poseassome/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -554,6 +556,7 @@
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/poseassome/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/poseassome/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -648,6 +651,7 @@
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
+| [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/poseassome/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/poseassome/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -740,4 +744,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/poseassome/LeetCode/tree/master/0937-online-stock-span) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
