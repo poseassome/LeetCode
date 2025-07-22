@@ -43,6 +43,7 @@
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/poseassome/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1196-filling-bookcase-shelves](https://github.com/poseassome/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1242-matrix-block-sum](https://github.com/poseassome/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1310-watering-plants](https://github.com/poseassome/LeetCode/tree/master/1310-watering-plants) |
@@ -557,6 +558,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/poseassome/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/poseassome/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
