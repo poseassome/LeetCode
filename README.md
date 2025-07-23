@@ -241,6 +241,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/poseassome/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/poseassome/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/poseassome/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1543-simplified-fractions](https://github.com/poseassome/LeetCode/tree/master/1543-simplified-fractions) |
 | [1652-minimum-suffix-flips](https://github.com/poseassome/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/poseassome/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -493,6 +494,7 @@
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [1279-prime-arrangements](https://github.com/poseassome/LeetCode/tree/master/1279-prime-arrangements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1543-simplified-fractions](https://github.com/poseassome/LeetCode/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/poseassome/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/poseassome/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/poseassome/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -643,6 +645,7 @@
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
+| [1543-simplified-fractions](https://github.com/poseassome/LeetCode/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/poseassome/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/poseassome/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
