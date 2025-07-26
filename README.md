@@ -175,6 +175,7 @@
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/poseassome/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/poseassome/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/poseassome/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -216,6 +217,7 @@
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/poseassome/LeetCode/tree/master/1955-seat-reservation-manager) |
+| [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/poseassome/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -252,6 +254,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/poseassome/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/poseassome/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/poseassome/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/poseassome/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -416,6 +419,7 @@
 | [1530-check-if-a-string-can-break-another-string](https://github.com/poseassome/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1652-minimum-suffix-flips](https://github.com/poseassome/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/poseassome/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/poseassome/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/poseassome/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2663-distribute-money-to-maximum-children](https://github.com/poseassome/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
@@ -639,6 +643,7 @@
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/poseassome/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/poseassome/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/poseassome/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/poseassome/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
