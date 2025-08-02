@@ -233,6 +233,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/poseassome/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/poseassome/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/poseassome/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -340,6 +341,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/poseassome/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poseassome/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/poseassome/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -577,6 +579,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/poseassome/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poseassome/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
