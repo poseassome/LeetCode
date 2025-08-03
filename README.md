@@ -155,6 +155,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/poseassome/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/poseassome/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0554-brick-wall](https://github.com/poseassome/LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -237,6 +238,7 @@
 | [0006-zigzag-conversion](https://github.com/poseassome/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/poseassome/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/poseassome/LeetCode/tree/master/0468-validate-ip-address) |
 | [0516-longest-palindromic-subsequence](https://github.com/poseassome/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poseassome/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
