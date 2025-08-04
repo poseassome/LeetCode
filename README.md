@@ -346,6 +346,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poseassome/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/poseassome/LeetCode/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poseassome/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/poseassome/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/poseassome/LeetCode/tree/master/0567-permutation-in-string) |
@@ -654,6 +655,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/poseassome/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/poseassome/LeetCode/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poseassome/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/poseassome/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/poseassome/LeetCode/tree/master/0146-lru-cache) |
