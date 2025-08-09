@@ -14,6 +14,7 @@
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/poseassome/LeetCode/tree/master/0495-teemo-attacking) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/poseassome/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -242,6 +243,7 @@
 | [0072-edit-distance](https://github.com/poseassome/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/poseassome/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/poseassome/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -295,6 +297,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poseassome/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
@@ -317,6 +320,7 @@
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poseassome/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/poseassome/LeetCode/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -337,6 +341,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -344,6 +349,7 @@
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -706,6 +712,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 ## Bit Manipulation
 |  |
