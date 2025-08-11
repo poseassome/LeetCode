@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/poseassome/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poseassome/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -379,6 +380,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/poseassome/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/poseassome/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
