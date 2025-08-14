@@ -16,6 +16,7 @@
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
+| [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/poseassome/LeetCode/tree/master/0495-teemo-attacking) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/poseassome/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -540,6 +541,7 @@
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/poseassome/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/poseassome/LeetCode/tree/master/0598-range-addition-ii) |
@@ -725,6 +727,7 @@
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
+| [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/poseassome/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
