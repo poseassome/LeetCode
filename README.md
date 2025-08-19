@@ -129,6 +129,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/poseassome/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
+| [3952-trionic-array-i](https://github.com/poseassome/LeetCode/tree/master/3952-trionic-array-i) |
 ## Simulation
 |  |
 | ------- |
