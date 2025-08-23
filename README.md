@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/poseassome/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/poseassome/LeetCode/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/poseassome/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poseassome/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -552,6 +553,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/poseassome/LeetCode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/poseassome/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
