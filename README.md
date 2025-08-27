@@ -136,6 +136,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/poseassome/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/poseassome/LeetCode/tree/master/0495-teemo-attacking) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1310-watering-plants](https://github.com/poseassome/LeetCode/tree/master/1310-watering-plants) |
@@ -257,6 +258,7 @@
 | [0093-restore-ip-addresses](https://github.com/poseassome/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/poseassome/LeetCode/tree/master/0097-interleaving-string) |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
+| [0415-add-strings](https://github.com/poseassome/LeetCode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/poseassome/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/poseassome/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -563,6 +565,7 @@
 | [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
+| [0415-add-strings](https://github.com/poseassome/LeetCode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/poseassome/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
