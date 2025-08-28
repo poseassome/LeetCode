@@ -8,7 +8,7 @@ var numTeams = function(rating) {
         for(let j=i+1; j<rating.length-1; j++){
             for(let k=j+1; k<rating.length; k++){
                 if(rating[i] < rating[j] && rating[j] < rating[k]) res++;
-                if (rating[i] > rating[j] && rating[j] > rating[k]) res++;
+                if(rating[i] > rating[j] && rating[j] > rating[k]) res++;
             }   
         } 
     }
