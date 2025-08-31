@@ -131,6 +131,7 @@
 | [3832-minimum-cost-to-reach-every-position](https://github.com/poseassome/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/poseassome/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/poseassome/LeetCode/tree/master/3952-trionic-array-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/poseassome/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
@@ -221,6 +222,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/poseassome/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -614,6 +616,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/poseassome/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/poseassome/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/poseassome/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/poseassome/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
@@ -747,6 +750,7 @@
 | [3778-transform-array-by-parity](https://github.com/poseassome/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/poseassome/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
 | ------- |
@@ -756,6 +760,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/poseassome/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Shortest Path
 |  |
 | ------- |
