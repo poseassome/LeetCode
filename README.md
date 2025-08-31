@@ -51,6 +51,7 @@
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
 | [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1095-two-city-scheduling](https://github.com/poseassome/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -585,6 +586,7 @@
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1279-prime-arrangements](https://github.com/poseassome/LeetCode/tree/master/1279-prime-arrangements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1543-simplified-fractions](https://github.com/poseassome/LeetCode/tree/master/1543-simplified-fractions) |
