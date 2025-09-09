@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/poseassome/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/poseassome/LeetCode/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/poseassome/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -651,6 +652,7 @@
 | [0005-longest-palindromic-substring](https://github.com/poseassome/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/poseassome/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/poseassome/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/poseassome/LeetCode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -678,6 +680,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
