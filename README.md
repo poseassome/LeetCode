@@ -267,6 +267,7 @@
 | [0091-decode-ways](https://github.com/poseassome/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/poseassome/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/poseassome/LeetCode/tree/master/0097-interleaving-string) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/poseassome/LeetCode/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/poseassome/LeetCode/tree/master/0415-add-strings) |
@@ -352,6 +353,7 @@
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poseassome/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poseassome/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/poseassome/LeetCode/tree/master/0437-path-sum-iii) |
@@ -480,6 +482,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/poseassome/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/poseassome/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Greedy
@@ -638,6 +641,7 @@
 | [0146-lru-cache](https://github.com/poseassome/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/poseassome/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0937-online-stock-span](https://github.com/poseassome/LeetCode/tree/master/0937-online-stock-span) |
