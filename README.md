@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/poseassome/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/poseassome/LeetCode/tree/master/0045-jump-game-ii) |
+| [0059-spiral-matrix-ii](https://github.com/poseassome/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/poseassome/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
@@ -142,6 +143,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/poseassome/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/poseassome/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/poseassome/LeetCode/tree/master/0495-teemo-attacking) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -693,6 +695,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/poseassome/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
