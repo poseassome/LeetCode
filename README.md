@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/poseassome/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/poseassome/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/poseassome/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/poseassome/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/poseassome/LeetCode/tree/master/0045-jump-game-ii) |
 | [0059-spiral-matrix-ii](https://github.com/poseassome/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -171,6 +172,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/poseassome/LeetCode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/poseassome/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/poseassome/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poseassome/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -695,6 +697,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/poseassome/LeetCode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/poseassome/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
