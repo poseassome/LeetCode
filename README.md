@@ -142,6 +142,7 @@
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/poseassome/LeetCode/tree/master/3952-trionic-array-i) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/poseassome/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/poseassome/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Simulation
@@ -429,6 +430,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/poseassome/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/poseassome/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -442,6 +444,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/poseassome/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -480,6 +483,7 @@
 | [3859-maximum-product-of-two-digits](https://github.com/poseassome/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/poseassome/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Prefix Sum
 |  |
@@ -532,6 +536,7 @@
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/poseassome/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/poseassome/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Backtracking
 |  |
