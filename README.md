@@ -145,6 +145,7 @@
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/poseassome/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/poseassome/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/poseassome/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Simulation
 |  |
 | ------- |
