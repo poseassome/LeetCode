@@ -20,6 +20,7 @@
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poseassome/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/poseassome/LeetCode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/poseassome/LeetCode/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poseassome/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/poseassome/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -718,6 +719,7 @@
 | [0097-interleaving-string](https://github.com/poseassome/LeetCode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poseassome/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/poseassome/LeetCode/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poseassome/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/poseassome/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -747,6 +749,7 @@
 | [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/poseassome/LeetCode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/poseassome/LeetCode/tree/master/0221-maximal-square) |
 | [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
