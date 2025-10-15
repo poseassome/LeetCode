@@ -387,6 +387,7 @@
 | [0437-path-sum-iii](https://github.com/poseassome/LeetCode/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
@@ -586,6 +587,7 @@
 | [0437-path-sum-iii](https://github.com/poseassome/LeetCode/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/poseassome/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
@@ -621,6 +623,7 @@
 | [0437-path-sum-iii](https://github.com/poseassome/LeetCode/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/poseassome/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
