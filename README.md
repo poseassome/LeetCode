@@ -346,6 +346,7 @@
 | [3893-generate-tag-for-video-caption](https://github.com/poseassome/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/poseassome/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
+| [4052-equal-score-substrings](https://github.com/poseassome/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -515,6 +516,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/poseassome/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/poseassome/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/poseassome/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [4052-equal-score-substrings](https://github.com/poseassome/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Trie
 |  |
 | ------- |
