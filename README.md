@@ -106,6 +106,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/poseassome/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/poseassome/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/poseassome/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -330,6 +331,7 @@
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/poseassome/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/poseassome/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/poseassome/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/poseassome/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/poseassome/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/poseassome/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -516,6 +518,7 @@
 | [1783-ways-to-make-a-fair-array](https://github.com/poseassome/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/poseassome/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/poseassome/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/poseassome/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/poseassome/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/poseassome/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
