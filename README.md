@@ -212,6 +212,7 @@
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
+| [1010-powerful-integers](https://github.com/poseassome/LeetCode/tree/master/1010-powerful-integers) |
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/poseassome/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -668,6 +669,7 @@
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
+| [1010-powerful-integers](https://github.com/poseassome/LeetCode/tree/master/1010-powerful-integers) |
 | [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1279-prime-arrangements](https://github.com/poseassome/LeetCode/tree/master/1279-prime-arrangements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -799,6 +801,7 @@
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1010-powerful-integers](https://github.com/poseassome/LeetCode/tree/master/1010-powerful-integers) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/poseassome/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
