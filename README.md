@@ -157,6 +157,7 @@
 | [3973-flip-square-submatrix-vertically](https://github.com/poseassome/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/poseassome/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/poseassome/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/poseassome/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -859,6 +861,7 @@
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/poseassome/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
