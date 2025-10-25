@@ -18,6 +18,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/poseassome/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/poseassome/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poseassome/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/poseassome/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/poseassome/LeetCode/tree/master/0134-gas-station) |
@@ -748,6 +749,7 @@
 | [0091-decode-ways](https://github.com/poseassome/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/poseassome/LeetCode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/poseassome/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/poseassome/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poseassome/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/poseassome/LeetCode/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poseassome/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
