@@ -319,6 +319,7 @@
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poseassome/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/poseassome/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1449-print-words-vertically](https://github.com/poseassome/LeetCode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/poseassome/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -947,6 +948,7 @@
 | [0883-car-fleet](https://github.com/poseassome/LeetCode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/poseassome/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poseassome/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/poseassome/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/poseassome/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
