@@ -159,6 +159,7 @@
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/poseassome/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/poseassome/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/poseassome/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/poseassome/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/poseassome/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
