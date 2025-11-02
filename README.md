@@ -384,6 +384,7 @@
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0662-maximum-width-of-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/poseassome/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
@@ -415,6 +416,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/poseassome/LeetCode/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
@@ -435,6 +437,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/poseassome/LeetCode/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/poseassome/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -443,6 +446,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/poseassome/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
