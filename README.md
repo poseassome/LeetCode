@@ -58,6 +58,7 @@
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0883-car-fleet](https://github.com/poseassome/LeetCode/tree/master/0883-car-fleet) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0936-rle-iterator](https://github.com/poseassome/LeetCode/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/poseassome/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -219,6 +220,7 @@
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/poseassome/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -638,6 +640,7 @@
 | [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/poseassome/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/poseassome/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -673,6 +676,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/poseassome/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -930,6 +934,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/poseassome/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 ## Merge Sort
