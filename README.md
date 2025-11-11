@@ -195,6 +195,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/poseassome/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/poseassome/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Hash Table
 |  |
 | ------- |
@@ -749,6 +750,7 @@
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/poseassome/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/poseassome/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/poseassome/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Design
 |  |
 | ------- |
