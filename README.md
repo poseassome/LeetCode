@@ -169,6 +169,7 @@
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/poseassome/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/poseassome/LeetCode/tree/master/4107-find-missing-elements) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/poseassome/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Simulation
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/poseassome/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/poseassome/LeetCode/tree/master/4107-find-missing-elements) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/poseassome/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
 |  |
 | ------- |
