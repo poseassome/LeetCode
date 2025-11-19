@@ -118,6 +118,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/poseassome/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/poseassome/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/poseassome/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
@@ -254,6 +255,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/poseassome/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/poseassome/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/poseassome/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/poseassome/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -290,6 +292,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/poseassome/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/poseassome/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/poseassome/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
