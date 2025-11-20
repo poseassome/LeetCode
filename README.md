@@ -73,6 +73,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
+| [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1095-two-city-scheduling](https://github.com/poseassome/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -349,6 +350,7 @@
 | [0962-flip-string-to-monotone-increasing](https://github.com/poseassome/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
+| [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poseassome/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -500,6 +502,7 @@
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
+| [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/poseassome/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -591,6 +594,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/poseassome/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Greedy
 |  |
@@ -884,6 +888,7 @@
 ## String Matching
 |  |
 | ------- |
+| [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [3684-substring-matching-pattern](https://github.com/poseassome/LeetCode/tree/master/3684-substring-matching-pattern) |
 ## Geometry
 |  |
