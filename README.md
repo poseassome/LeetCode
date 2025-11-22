@@ -95,6 +95,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1449-print-words-vertically](https://github.com/poseassome/LeetCode/tree/master/1449-print-words-vertically) |
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/poseassome/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1511-count-number-of-teams](https://github.com/poseassome/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/poseassome/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
@@ -294,6 +295,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/poseassome/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/poseassome/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/poseassome/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/poseassome/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -839,6 +841,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/poseassome/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/poseassome/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1511-count-number-of-teams](https://github.com/poseassome/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/poseassome/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
