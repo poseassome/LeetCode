@@ -345,6 +345,7 @@
 | [0541-reverse-string-ii](https://github.com/poseassome/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/poseassome/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/poseassome/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/poseassome/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
@@ -616,6 +617,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/poseassome/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/poseassome/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/poseassome/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1086,4 +1088,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/poseassome/LeetCode/tree/master/1511-count-number-of-teams) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/poseassome/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
