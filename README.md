@@ -399,6 +399,7 @@
 | [3684-substring-matching-pattern](https://github.com/poseassome/LeetCode/tree/master/3684-substring-matching-pattern) |
 | [3707-find-the-most-common-response](https://github.com/poseassome/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/poseassome/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/poseassome/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poseassome/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -529,6 +530,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/poseassome/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/poseassome/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/poseassome/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -789,6 +791,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/poseassome/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/poseassome/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/poseassome/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/poseassome/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/poseassome/LeetCode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3817-maximum-containers-on-a-ship](https://github.com/poseassome/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -994,6 +997,7 @@
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/poseassome/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/poseassome/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/poseassome/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
