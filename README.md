@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/poseassome/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/poseassome/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/poseassome/LeetCode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/poseassome/LeetCode/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/poseassome/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/poseassome/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/poseassome/LeetCode/tree/master/0066-plus-one) |
@@ -555,6 +556,7 @@
 | ------- |
 | [0015-3sum](https://github.com/poseassome/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/poseassome/LeetCode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/poseassome/LeetCode/tree/master/0047-permutations-ii) |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/poseassome/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/poseassome/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -664,6 +666,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/poseassome/LeetCode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/poseassome/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
