@@ -66,6 +66,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0931-minimum-falling-path-sum](https://github.com/poseassome/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0936-rle-iterator](https://github.com/poseassome/LeetCode/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/poseassome/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
@@ -870,6 +871,7 @@
 | [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0931-minimum-falling-path-sum](https://github.com/poseassome/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/poseassome/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
@@ -898,6 +900,7 @@
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0931-minimum-falling-path-sum](https://github.com/poseassome/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/poseassome/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1242-matrix-block-sum](https://github.com/poseassome/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1254-number-of-closed-islands](https://github.com/poseassome/LeetCode/tree/master/1254-number-of-closed-islands) |
