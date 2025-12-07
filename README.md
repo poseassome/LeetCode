@@ -80,6 +80,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1095-two-city-scheduling](https://github.com/poseassome/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
@@ -247,6 +248,7 @@
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1010-powerful-integers](https://github.com/poseassome/LeetCode/tree/master/1010-powerful-integers) |
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/poseassome/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -366,6 +368,7 @@
 | [0962-flip-string-to-monotone-increasing](https://github.com/poseassome/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
@@ -528,6 +531,7 @@
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
+| [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/poseassome/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -575,6 +579,7 @@
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
+| [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1095-two-city-scheduling](https://github.com/poseassome/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/poseassome/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -874,6 +879,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/poseassome/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/poseassome/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/poseassome/LeetCode/tree/master/1196-filling-bookcase-shelves) |
