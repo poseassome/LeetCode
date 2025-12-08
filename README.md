@@ -783,6 +783,7 @@
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [1010-powerful-integers](https://github.com/poseassome/LeetCode/tree/master/1010-powerful-integers) |
 | [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1227-airplane-seat-assignment-probability](https://github.com/poseassome/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1279-prime-arrangements](https://github.com/poseassome/LeetCode/tree/master/1279-prime-arrangements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1543-simplified-fractions](https://github.com/poseassome/LeetCode/tree/master/1543-simplified-fractions) |
@@ -883,6 +884,7 @@
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/poseassome/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/poseassome/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1227-airplane-seat-assignment-probability](https://github.com/poseassome/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/poseassome/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
@@ -1090,6 +1092,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
+| [1227-airplane-seat-assignment-probability](https://github.com/poseassome/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1138,4 +1141,8 @@
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/poseassome/LeetCode/tree/master/0851-loud-and-rich) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/poseassome/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
