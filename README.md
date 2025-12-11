@@ -367,6 +367,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/poseassome/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
@@ -475,6 +476,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/poseassome/LeetCode/tree/master/0851-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/poseassome/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/poseassome/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -678,6 +680,7 @@
 | [0093-restore-ip-addresses](https://github.com/poseassome/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1331-path-with-maximum-gold](https://github.com/poseassome/LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -709,6 +712,7 @@
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/poseassome/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/poseassome/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -747,6 +751,7 @@
 | [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/poseassome/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/poseassome/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/poseassome/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
