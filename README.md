@@ -815,6 +815,7 @@
 | [3702-maximum-subarray-with-equal-products](https://github.com/poseassome/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/poseassome/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/poseassome/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/poseassome/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/poseassome/LeetCode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3817-maximum-containers-on-a-ship](https://github.com/poseassome/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
