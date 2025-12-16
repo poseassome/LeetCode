@@ -76,6 +76,7 @@
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/poseassome/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -559,6 +560,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/poseassome/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1675-magnetic-force-between-two-balls](https://github.com/poseassome/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
