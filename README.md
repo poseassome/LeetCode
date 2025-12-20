@@ -274,6 +274,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/poseassome/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/poseassome/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/poseassome/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2831-number-of-beautiful-pairs](https://github.com/poseassome/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/poseassome/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -456,6 +457,7 @@
 | [1876-map-of-highest-peak](https://github.com/poseassome/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/poseassome/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/poseassome/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/poseassome/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Depth-First Search
 |  |
@@ -494,6 +496,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/poseassome/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/poseassome/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/poseassome/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/poseassome/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -730,6 +733,7 @@
 | [1731-even-odd-tree](https://github.com/poseassome/LeetCode/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/poseassome/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/poseassome/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -769,6 +773,7 @@
 | [1731-even-odd-tree](https://github.com/poseassome/LeetCode/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/poseassome/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/poseassome/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Math
 |  |
 | ------- |
