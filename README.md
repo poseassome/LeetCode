@@ -75,6 +75,7 @@
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/poseassome/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poseassome/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -542,6 +543,7 @@
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/poseassome/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
@@ -1174,4 +1176,8 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/poseassome/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Line Sweep
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/poseassome/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
