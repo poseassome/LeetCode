@@ -73,6 +73,7 @@
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/poseassome/LeetCode/tree/master/0986-interval-list-intersections) |
@@ -324,6 +325,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/poseassome/LeetCode/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/poseassome/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/poseassome/LeetCode/tree/master/1955-seat-reservation-manager) |
@@ -590,6 +592,7 @@
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
@@ -802,6 +805,7 @@
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1010-powerful-integers](https://github.com/poseassome/LeetCode/tree/master/1010-powerful-integers) |
 | [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1227-airplane-seat-assignment-probability](https://github.com/poseassome/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
@@ -982,6 +986,7 @@
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/poseassome/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Linked List
 |  |
@@ -1061,6 +1066,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1180,4 +1186,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/poseassome/LeetCode/tree/master/0986-interval-list-intersections) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
