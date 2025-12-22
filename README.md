@@ -200,6 +200,7 @@
 | [1324-where-will-the-ball-fall](https://github.com/poseassome/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/poseassome/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1449-print-words-vertically](https://github.com/poseassome/LeetCode/tree/master/1449-print-words-vertically) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/poseassome/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/poseassome/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1803-average-waiting-time](https://github.com/poseassome/LeetCode/tree/master/1803-average-waiting-time) |
 | [1971-incremental-memory-leak](https://github.com/poseassome/LeetCode/tree/master/1971-incremental-memory-leak) |
@@ -392,6 +393,7 @@
 | [1530-check-if-a-string-can-break-another-string](https://github.com/poseassome/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/poseassome/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1543-simplified-fractions](https://github.com/poseassome/LeetCode/tree/master/1543-simplified-fractions) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/poseassome/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1652-minimum-suffix-flips](https://github.com/poseassome/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/poseassome/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -1093,6 +1095,7 @@
 | [0002-add-two-numbers](https://github.com/poseassome/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/poseassome/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/poseassome/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
