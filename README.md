@@ -404,6 +404,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/poseassome/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/poseassome/LeetCode/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/poseassome/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/poseassome/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -971,6 +972,7 @@
 | [1010-powerful-integers](https://github.com/poseassome/LeetCode/tree/master/1010-powerful-integers) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/poseassome/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/poseassome/LeetCode/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/poseassome/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/poseassome/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
