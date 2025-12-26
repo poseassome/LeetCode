@@ -790,6 +790,7 @@
 | [0002-add-two-numbers](https://github.com/poseassome/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/poseassome/LeetCode/tree/master/0066-plus-one) |
+| [0223-rectangle-area](https://github.com/poseassome/LeetCode/tree/master/0223-rectangle-area) |
 | [0313-super-ugly-number](https://github.com/poseassome/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/poseassome/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -990,6 +991,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/poseassome/LeetCode/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
