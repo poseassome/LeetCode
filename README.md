@@ -37,6 +37,7 @@
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/poseassome/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0457-circular-array-loop](https://github.com/poseassome/LeetCode/tree/master/0457-circular-array-loop) |
+| [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/poseassome/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
@@ -701,6 +702,7 @@
 | [0079-word-search](https://github.com/poseassome/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/poseassome/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
+| [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -900,6 +902,7 @@
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/poseassome/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
+| [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/poseassome/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/poseassome/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -1059,6 +1062,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/poseassome/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
+| [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0861-score-after-flipping-matrix](https://github.com/poseassome/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
@@ -1178,6 +1182,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Binary Indexed Tree
 |  |
