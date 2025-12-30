@@ -232,6 +232,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/poseassome/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/poseassome/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poseassome/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0355-design-twitter](https://github.com/poseassome/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/poseassome/LeetCode/tree/master/0383-ransom-note) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/poseassome/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -328,6 +329,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/poseassome/LeetCode/tree/master/0355-design-twitter) |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -863,6 +865,7 @@
 | [0155-min-stack](https://github.com/poseassome/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0355-design-twitter](https://github.com/poseassome/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1013,6 +1016,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/poseassome/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/poseassome/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poseassome/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0355-design-twitter](https://github.com/poseassome/LeetCode/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/poseassome/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
