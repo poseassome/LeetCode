@@ -850,6 +850,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/poseassome/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/poseassome/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/poseassome/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/poseassome/LeetCode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3817-maximum-containers-on-a-ship](https://github.com/poseassome/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
