@@ -389,6 +389,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/poseassome/LeetCode/tree/master/1044-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/poseassome/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poseassome/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -522,6 +523,7 @@
 | [0684-redundant-connection](https://github.com/poseassome/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/poseassome/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/poseassome/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1254-number-of-closed-islands](https://github.com/poseassome/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
