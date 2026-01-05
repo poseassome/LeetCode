@@ -51,6 +51,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/poseassome/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0598-range-addition-ii](https://github.com/poseassome/LeetCode/tree/master/0598-range-addition-ii) |
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poseassome/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
@@ -713,6 +714,7 @@
 | [0093-restore-ip-addresses](https://github.com/poseassome/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
 | [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -921,6 +923,7 @@
 | [0542-01-matrix](https://github.com/poseassome/LeetCode/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/poseassome/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/poseassome/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poseassome/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/poseassome/LeetCode/tree/master/0740-delete-and-earn) |
@@ -1078,6 +1081,7 @@
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
 | [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
 | [0861-score-after-flipping-matrix](https://github.com/poseassome/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/poseassome/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1186,6 +1190,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
 | [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Monotonic Stack
 |  |
@@ -1197,6 +1202,7 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Binary Indexed Tree
 |  |
