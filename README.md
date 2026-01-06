@@ -436,6 +436,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poseassome/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/poseassome/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/poseassome/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/poseassome/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -572,6 +573,7 @@
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/poseassome/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/poseassome/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/poseassome/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/poseassome/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
