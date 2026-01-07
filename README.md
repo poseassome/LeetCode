@@ -245,6 +245,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/poseassome/LeetCode/tree/master/0457-circular-array-loop) |
+| [0519-random-flip-matrix](https://github.com/poseassome/LeetCode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/poseassome/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0554-brick-wall](https://github.com/poseassome/LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -819,6 +820,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/poseassome/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
+| [0519-random-flip-matrix](https://github.com/poseassome/LeetCode/tree/master/0519-random-flip-matrix) |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/poseassome/LeetCode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/poseassome/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -898,6 +900,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0519-random-flip-matrix](https://github.com/poseassome/LeetCode/tree/master/0519-random-flip-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1122,6 +1125,7 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0519-random-flip-matrix](https://github.com/poseassome/LeetCode/tree/master/0519-random-flip-matrix) |
 ## Recursion
 |  |
 | ------- |
