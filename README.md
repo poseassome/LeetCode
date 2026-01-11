@@ -86,6 +86,7 @@
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poseassome/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1014-best-sightseeing-pair](https://github.com/poseassome/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -947,6 +948,7 @@
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/poseassome/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/poseassome/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1014-best-sightseeing-pair](https://github.com/poseassome/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1025-minimum-cost-for-tickets](https://github.com/poseassome/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/poseassome/LeetCode/tree/master/1048-longest-string-chain) |
 | [1105-uncrossed-lines](https://github.com/poseassome/LeetCode/tree/master/1105-uncrossed-lines) |
