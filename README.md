@@ -27,6 +27,7 @@
 | [0213-house-robber-ii](https://github.com/poseassome/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/poseassome/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/poseassome/LeetCode/tree/master/0289-game-of-life) |
+| [0307-range-sum-query-mutable](https://github.com/poseassome/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poseassome/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/poseassome/LeetCode/tree/master/0313-super-ugly-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/poseassome/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -888,6 +889,7 @@
 | [0155-min-stack](https://github.com/poseassome/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0307-range-sum-query-mutable](https://github.com/poseassome/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/poseassome/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -1111,6 +1113,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/poseassome/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/poseassome/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
@@ -1184,6 +1187,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/poseassome/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poseassome/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/poseassome/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1511-count-number-of-teams](https://github.com/poseassome/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -1227,6 +1231,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/poseassome/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poseassome/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/poseassome/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Queue
