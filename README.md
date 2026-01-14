@@ -128,6 +128,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/poseassome/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/poseassome/LeetCode/tree/master/1803-average-waiting-time) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/poseassome/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/poseassome/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/poseassome/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -215,6 +216,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/poseassome/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/poseassome/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1803-average-waiting-time](https://github.com/poseassome/LeetCode/tree/master/1803-average-waiting-time) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1971-incremental-memory-leak](https://github.com/poseassome/LeetCode/tree/master/1971-incremental-memory-leak) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -849,6 +851,7 @@
 | [1543-simplified-fractions](https://github.com/poseassome/LeetCode/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/poseassome/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/poseassome/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/poseassome/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/poseassome/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1971-incremental-memory-leak](https://github.com/poseassome/LeetCode/tree/master/1971-incremental-memory-leak) |
@@ -1147,6 +1150,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/poseassome/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/poseassome/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
@@ -1238,6 +1242,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/poseassome/LeetCode/tree/master/0649-dota2-senate) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Topological Sort
 |  |
 | ------- |
