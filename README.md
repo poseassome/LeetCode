@@ -37,6 +37,7 @@
 | [0393-utf-8-validation](https://github.com/poseassome/LeetCode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
+| [0447-number-of-boomerangs](https://github.com/poseassome/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/poseassome/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0457-circular-array-loop](https://github.com/poseassome/LeetCode/tree/master/0457-circular-array-loop) |
 | [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
@@ -250,6 +251,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/poseassome/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0447-number-of-boomerangs](https://github.com/poseassome/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0457-circular-array-loop](https://github.com/poseassome/LeetCode/tree/master/0457-circular-array-loop) |
 | [0519-random-flip-matrix](https://github.com/poseassome/LeetCode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/poseassome/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -831,6 +833,7 @@
 | [0396-rotate-function](https://github.com/poseassome/LeetCode/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/poseassome/LeetCode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/poseassome/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0447-number-of-boomerangs](https://github.com/poseassome/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
 | [0519-random-flip-matrix](https://github.com/poseassome/LeetCode/tree/master/0519-random-flip-matrix) |
