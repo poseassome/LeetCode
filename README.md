@@ -314,6 +314,7 @@
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/poseassome/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/poseassome/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3803-count-residue-prefixes](https://github.com/poseassome/LeetCode/tree/master/3803-count-residue-prefixes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/poseassome/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -448,6 +449,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/poseassome/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/poseassome/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/poseassome/LeetCode/tree/master/3798-largest-even-number) |
+| [3803-count-residue-prefixes](https://github.com/poseassome/LeetCode/tree/master/3803-count-residue-prefixes) |
 | [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/poseassome/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
