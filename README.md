@@ -58,6 +58,7 @@
 | [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poseassome/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/poseassome/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/poseassome/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -738,6 +739,7 @@
 | [0113-path-sum-ii](https://github.com/poseassome/LeetCode/tree/master/0113-path-sum-ii) |
 | [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/poseassome/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/poseassome/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/poseassome/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -961,6 +963,7 @@
 | [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poseassome/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/poseassome/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/poseassome/LeetCode/tree/master/0740-delete-and-earn) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0815-champagne-tower](https://github.com/poseassome/LeetCode/tree/master/0815-champagne-tower) |
@@ -1119,6 +1122,7 @@
 | [0473-matchsticks-to-square](https://github.com/poseassome/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/poseassome/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0861-score-after-flipping-matrix](https://github.com/poseassome/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1418-fair-distribution-of-cookies](https://github.com/poseassome/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/poseassome/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1238,6 +1242,7 @@
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/poseassome/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1488-sort-integers-by-the-power-value](https://github.com/poseassome/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Monotonic Stack
 |  |
@@ -1283,4 +1288,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/poseassome/LeetCode/tree/master/0207-course-schedule) |
+## Bitmask DP
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/poseassome/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
