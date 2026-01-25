@@ -65,6 +65,7 @@
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/poseassome/LeetCode/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
+| [0764-largest-plus-sign](https://github.com/poseassome/LeetCode/tree/master/0764-largest-plus-sign) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -968,6 +969,7 @@
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/poseassome/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/poseassome/LeetCode/tree/master/0740-delete-and-earn) |
+| [0764-largest-plus-sign](https://github.com/poseassome/LeetCode/tree/master/0764-largest-plus-sign) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0815-champagne-tower](https://github.com/poseassome/LeetCode/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
