@@ -55,6 +55,7 @@
 | [0598-range-addition-ii](https://github.com/poseassome/LeetCode/tree/master/0598-range-addition-ii) |
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
+| [0641-design-circular-deque](https://github.com/poseassome/LeetCode/tree/master/0641-design-circular-deque) |
 | [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poseassome/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
@@ -919,6 +920,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0641-design-circular-deque](https://github.com/poseassome/LeetCode/tree/master/0641-design-circular-deque) |
 | [0731-my-calendar-ii](https://github.com/poseassome/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0855-exam-room](https://github.com/poseassome/LeetCode/tree/master/0855-exam-room) |
 | [0936-rle-iterator](https://github.com/poseassome/LeetCode/tree/master/0936-rle-iterator) |
@@ -1078,6 +1080,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/poseassome/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/poseassome/LeetCode/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0641-design-circular-deque](https://github.com/poseassome/LeetCode/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/poseassome/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/poseassome/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -1274,6 +1277,7 @@
 ## Queue
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/poseassome/LeetCode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/poseassome/LeetCode/tree/master/0649-dota2-senate) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/poseassome/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Topological Sort
