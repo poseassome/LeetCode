@@ -70,6 +70,7 @@
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0817-linked-list-components](https://github.com/poseassome/LeetCode/tree/master/0817-linked-list-components) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
 | [0851-loud-and-rich](https://github.com/poseassome/LeetCode/tree/master/0851-loud-and-rich) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
@@ -269,6 +270,7 @@
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0817-linked-list-components](https://github.com/poseassome/LeetCode/tree/master/0817-linked-list-components) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/poseassome/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -1082,6 +1084,7 @@
 | [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0641-design-circular-deque](https://github.com/poseassome/LeetCode/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/poseassome/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/poseassome/LeetCode/tree/master/0817-linked-list-components) |
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/poseassome/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting
