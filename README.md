@@ -77,6 +77,7 @@
 | [0851-loud-and-rich](https://github.com/poseassome/LeetCode/tree/master/0851-loud-and-rich) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-score-after-flipping-matrix](https://github.com/poseassome/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/poseassome/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0883-car-fleet](https://github.com/poseassome/LeetCode/tree/master/0883-car-fleet) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
@@ -217,6 +218,7 @@
 | [0415-add-strings](https://github.com/poseassome/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/poseassome/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/poseassome/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/poseassome/LeetCode/tree/master/0867-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1310-watering-plants](https://github.com/poseassome/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/poseassome/LeetCode/tree/master/1324-where-will-the-ball-fall) |
@@ -1024,6 +1026,7 @@
 | [0733-flood-fill](https://github.com/poseassome/LeetCode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0861-score-after-flipping-matrix](https://github.com/poseassome/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/poseassome/LeetCode/tree/master/0867-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/poseassome/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/poseassome/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
