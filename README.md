@@ -345,6 +345,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/poseassome/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/poseassome/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/poseassome/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/poseassome/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -419,6 +420,7 @@
 | [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poseassome/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1208-get-equal-substrings-within-budget](https://github.com/poseassome/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/poseassome/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1211-iterator-for-combination](https://github.com/poseassome/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poseassome/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -621,6 +623,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poseassome/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/poseassome/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1675-magnetic-force-between-two-balls](https://github.com/poseassome/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -683,6 +686,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/poseassome/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/poseassome/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1242-matrix-block-sum](https://github.com/poseassome/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1783-ways-to-make-a-fair-array](https://github.com/poseassome/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
