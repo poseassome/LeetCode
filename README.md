@@ -488,6 +488,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/poseassome/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/poseassome/LeetCode/tree/master/0542-01-matrix) |
+| [0655-print-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/poseassome/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
@@ -527,6 +528,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0655-print-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/poseassome/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/poseassome/LeetCode/tree/master/0684-redundant-connection) |
@@ -786,6 +788,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0655-print-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/poseassome/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
@@ -833,6 +836,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0655-print-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/poseassome/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
