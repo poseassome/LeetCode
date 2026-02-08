@@ -408,6 +408,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/poseassome/LeetCode/tree/master/0722-remove-comments) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/poseassome/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
@@ -601,6 +602,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/poseassome/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/poseassome/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/poseassome/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
