@@ -70,6 +70,7 @@
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
 | [0764-largest-plus-sign](https://github.com/poseassome/LeetCode/tree/master/0764-largest-plus-sign) |
 | [0772-construct-quad-tree](https://github.com/poseassome/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/poseassome/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-linked-list-components](https://github.com/poseassome/LeetCode/tree/master/0817-linked-list-components) |
@@ -603,6 +604,7 @@
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/poseassome/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/poseassome/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/poseassome/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
