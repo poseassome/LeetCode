@@ -1089,6 +1089,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/poseassome/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/poseassome/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-count-monobit-integers](https://github.com/poseassome/LeetCode/tree/master/3827-count-monobit-integers) |
 ## String Matching
 |  |
 | ------- |
@@ -1181,6 +1182,7 @@
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/poseassome/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/poseassome/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/poseassome/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3827-count-monobit-integers](https://github.com/poseassome/LeetCode/tree/master/3827-count-monobit-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
