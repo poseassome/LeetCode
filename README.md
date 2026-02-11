@@ -888,6 +888,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/poseassome/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0447-number-of-boomerangs](https://github.com/poseassome/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/poseassome/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/poseassome/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/poseassome/LeetCode/tree/master/0486-predict-the-winner) |
 | [0519-random-flip-matrix](https://github.com/poseassome/LeetCode/tree/master/0519-random-flip-matrix) |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
@@ -974,6 +975,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/poseassome/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0478-generate-random-point-in-a-circle](https://github.com/poseassome/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0519-random-flip-matrix](https://github.com/poseassome/LeetCode/tree/master/0519-random-flip-matrix) |
 ## Dynamic Programming
 |  |
@@ -1099,6 +1101,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/poseassome/LeetCode/tree/master/0223-rectangle-area) |
+| [0478-generate-random-point-in-a-circle](https://github.com/poseassome/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0593-valid-square](https://github.com/poseassome/LeetCode/tree/master/0593-valid-square) |
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
@@ -1347,4 +1350,8 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/poseassome/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/poseassome/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
