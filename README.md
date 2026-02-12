@@ -145,6 +145,7 @@
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/poseassome/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/poseassome/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/poseassome/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -304,6 +305,7 @@
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/poseassome/LeetCode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/poseassome/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/poseassome/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/poseassome/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/poseassome/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/poseassome/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -447,6 +449,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/poseassome/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/poseassome/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/poseassome/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/poseassome/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/poseassome/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/poseassome/LeetCode/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
@@ -1139,6 +1142,7 @@
 | [1364-tuple-with-same-product](https://github.com/poseassome/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/poseassome/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/poseassome/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/poseassome/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/poseassome/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/poseassome/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
