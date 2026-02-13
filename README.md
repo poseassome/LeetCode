@@ -88,6 +88,7 @@
 | [0936-rle-iterator](https://github.com/poseassome/LeetCode/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/poseassome/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
+| [0962-maximum-width-ramp](https://github.com/poseassome/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -612,6 +613,7 @@
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0962-maximum-width-ramp](https://github.com/poseassome/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/poseassome/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
@@ -1255,6 +1257,7 @@
 | [0883-car-fleet](https://github.com/poseassome/LeetCode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/poseassome/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/poseassome/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poseassome/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/poseassome/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/poseassome/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1311,6 +1314,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/poseassome/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0883-car-fleet](https://github.com/poseassome/LeetCode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/poseassome/LeetCode/tree/master/0937-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/poseassome/LeetCode/tree/master/0962-maximum-width-ramp) |
 ## Bitmask
 |  |
 | ------- |
