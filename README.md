@@ -57,6 +57,7 @@
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0638-shopping-offers](https://github.com/poseassome/LeetCode/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/poseassome/LeetCode/tree/master/0641-design-circular-deque) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/poseassome/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/poseassome/LeetCode/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/poseassome/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
@@ -273,6 +274,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/poseassome/LeetCode/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/poseassome/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/poseassome/LeetCode/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/poseassome/LeetCode/tree/master/0355-design-twitter) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/poseassome/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0744-network-delay-time](https://github.com/poseassome/LeetCode/tree/master/0744-network-delay-time) |
 | [0855-exam-room](https://github.com/poseassome/LeetCode/tree/master/0855-exam-room) |
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
@@ -736,6 +739,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/poseassome/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/poseassome/LeetCode/tree/master/0649-dota2-senate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/poseassome/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/poseassome/LeetCode/tree/master/0861-score-after-flipping-matrix) |
