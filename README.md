@@ -114,6 +114,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1242-matrix-block-sum](https://github.com/poseassome/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1254-number-of-closed-islands](https://github.com/poseassome/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/poseassome/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1310-watering-plants](https://github.com/poseassome/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/poseassome/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1331-path-with-maximum-gold](https://github.com/poseassome/LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -224,6 +225,7 @@
 | [0566-reshape-the-matrix](https://github.com/poseassome/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/poseassome/LeetCode/tree/master/0867-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/poseassome/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1310-watering-plants](https://github.com/poseassome/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/poseassome/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/poseassome/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
@@ -297,6 +299,7 @@
 | [1160-letter-tile-possibilities](https://github.com/poseassome/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/poseassome/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/poseassome/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/poseassome/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/poseassome/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/poseassome/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/poseassome/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1069,6 +1072,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/poseassome/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1242-matrix-block-sum](https://github.com/poseassome/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1254-number-of-closed-islands](https://github.com/poseassome/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/poseassome/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1324-where-will-the-ball-fall](https://github.com/poseassome/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1331-path-with-maximum-gold](https://github.com/poseassome/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/poseassome/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
