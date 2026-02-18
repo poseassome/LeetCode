@@ -279,6 +279,7 @@
 | [0567-permutation-in-string](https://github.com/poseassome/LeetCode/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/poseassome/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/poseassome/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0676-implement-magic-dictionary](https://github.com/poseassome/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/poseassome/LeetCode/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/poseassome/LeetCode/tree/master/0753-open-the-lock) |
@@ -415,6 +416,7 @@
 | [0567-permutation-in-string](https://github.com/poseassome/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/poseassome/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/poseassome/LeetCode/tree/master/0649-dota2-senate) |
+| [0676-implement-magic-dictionary](https://github.com/poseassome/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/poseassome/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -550,6 +552,7 @@
 | [0655-print-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/poseassome/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0676-implement-magic-dictionary](https://github.com/poseassome/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/poseassome/LeetCode/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/poseassome/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/poseassome/LeetCode/tree/master/0695-max-area-of-island) |
@@ -729,6 +732,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/poseassome/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/poseassome/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1080-camelcase-matching](https://github.com/poseassome/LeetCode/tree/master/1080-camelcase-matching) |
@@ -972,6 +976,7 @@
 | [0384-shuffle-an-array](https://github.com/poseassome/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0641-design-circular-deque](https://github.com/poseassome/LeetCode/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/poseassome/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0731-my-calendar-ii](https://github.com/poseassome/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0855-exam-room](https://github.com/poseassome/LeetCode/tree/master/0855-exam-room) |
 | [0936-rle-iterator](https://github.com/poseassome/LeetCode/tree/master/0936-rle-iterator) |
