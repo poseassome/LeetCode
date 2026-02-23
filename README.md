@@ -251,6 +251,7 @@
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/poseassome/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/poseassome/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/poseassome/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/poseassome/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/poseassome/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Hash Table
@@ -488,6 +489,7 @@
 | [3798-largest-even-number](https://github.com/poseassome/LeetCode/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/poseassome/LeetCode/tree/master/3803-count-residue-prefixes) |
 | [3811-reverse-degree-of-a-string](https://github.com/poseassome/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/poseassome/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/poseassome/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/poseassome/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/poseassome/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
@@ -639,6 +641,7 @@
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/poseassome/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/poseassome/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/poseassome/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/poseassome/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/poseassome/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
