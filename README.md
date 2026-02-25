@@ -96,6 +96,7 @@
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [0976-largest-perimeter-triangle](https://github.com/poseassome/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/poseassome/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
@@ -683,6 +684,7 @@
 | [0948-sort-an-array](https://github.com/poseassome/LeetCode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-reorder-data-in-log-files](https://github.com/poseassome/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [0976-largest-perimeter-triangle](https://github.com/poseassome/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
@@ -758,6 +760,7 @@
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/poseassome/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/poseassome/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
@@ -927,6 +930,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0968-beautiful-array](https://github.com/poseassome/LeetCode/tree/master/0968-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/poseassome/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/poseassome/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1010-powerful-integers](https://github.com/poseassome/LeetCode/tree/master/1010-powerful-integers) |
 | [1031-add-to-array-form-of-integer](https://github.com/poseassome/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1227-airplane-seat-assignment-probability](https://github.com/poseassome/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
