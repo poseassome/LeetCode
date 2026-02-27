@@ -100,6 +100,7 @@
 | [0985-bag-of-tokens](https://github.com/poseassome/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/poseassome/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0991-array-of-doubled-pairs](https://github.com/poseassome/LeetCode/tree/master/0991-array-of-doubled-pairs) |
+| [0999-available-captures-for-rook](https://github.com/poseassome/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1009-pancake-sorting](https://github.com/poseassome/LeetCode/tree/master/1009-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poseassome/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/poseassome/LeetCode/tree/master/1014-best-sightseeing-pair) |
@@ -228,6 +229,7 @@
 | [0566-reshape-the-matrix](https://github.com/poseassome/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/poseassome/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/poseassome/LeetCode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/poseassome/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/poseassome/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/poseassome/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1310-watering-plants](https://github.com/poseassome/LeetCode/tree/master/1310-watering-plants) |
@@ -1089,6 +1091,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/poseassome/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0999-available-captures-for-rook](https://github.com/poseassome/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/poseassome/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1242-matrix-block-sum](https://github.com/poseassome/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1254-number-of-closed-islands](https://github.com/poseassome/LeetCode/tree/master/1254-number-of-closed-islands) |
