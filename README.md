@@ -75,6 +75,7 @@
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/poseassome/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0813-largest-sum-of-averages](https://github.com/poseassome/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0817-linked-list-components](https://github.com/poseassome/LeetCode/tree/master/0817-linked-list-components) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
 | [0851-loud-and-rich](https://github.com/poseassome/LeetCode/tree/master/0851-loud-and-rich) |
@@ -723,6 +724,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/poseassome/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/poseassome/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0813-largest-sum-of-averages](https://github.com/poseassome/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/poseassome/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1242-matrix-block-sum](https://github.com/poseassome/LeetCode/tree/master/1242-matrix-block-sum) |
@@ -1047,6 +1049,7 @@
 | [0764-largest-plus-sign](https://github.com/poseassome/LeetCode/tree/master/0764-largest-plus-sign) |
 | [0788-rotated-digits](https://github.com/poseassome/LeetCode/tree/master/0788-rotated-digits) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0813-largest-sum-of-averages](https://github.com/poseassome/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0815-champagne-tower](https://github.com/poseassome/LeetCode/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
