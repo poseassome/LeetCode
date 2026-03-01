@@ -77,6 +77,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/poseassome/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0817-linked-list-components](https://github.com/poseassome/LeetCode/tree/master/0817-linked-list-components) |
+| [0826-most-profit-assigning-work](https://github.com/poseassome/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
 | [0851-loud-and-rich](https://github.com/poseassome/LeetCode/tree/master/0851-loud-and-rich) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
@@ -628,6 +629,7 @@
 | [0633-sum-of-square-numbers](https://github.com/poseassome/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/poseassome/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/poseassome/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0826-most-profit-assigning-work](https://github.com/poseassome/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
@@ -659,6 +661,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/poseassome/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0826-most-profit-assigning-work](https://github.com/poseassome/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poseassome/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/poseassome/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -680,6 +683,7 @@
 | [0611-valid-triangle-number](https://github.com/poseassome/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0720-longest-word-in-dictionary](https://github.com/poseassome/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0826-most-profit-assigning-work](https://github.com/poseassome/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0883-car-fleet](https://github.com/poseassome/LeetCode/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -762,6 +766,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/poseassome/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/poseassome/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0861-score-after-flipping-matrix](https://github.com/poseassome/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/poseassome/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/poseassome/LeetCode/tree/master/0976-largest-perimeter-triangle) |
