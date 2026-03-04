@@ -915,6 +915,7 @@
 | [0002-add-two-numbers](https://github.com/poseassome/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/poseassome/LeetCode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/poseassome/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/poseassome/LeetCode/tree/master/0223-rectangle-area) |
 | [0313-super-ugly-number](https://github.com/poseassome/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/poseassome/LeetCode/tree/master/0368-largest-divisible-subset) |
