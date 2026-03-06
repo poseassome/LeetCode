@@ -85,6 +85,7 @@
 | [0867-transpose-matrix](https://github.com/poseassome/LeetCode/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/poseassome/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/poseassome/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/poseassome/LeetCode/tree/master/0883-car-fleet) |
 | [0892-surface-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0919-projection-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
@@ -665,6 +666,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0826-most-profit-assigning-work](https://github.com/poseassome/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0852-friends-of-appropriate-ages](https://github.com/poseassome/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0875-koko-eating-bananas](https://github.com/poseassome/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poseassome/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/poseassome/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1675-magnetic-force-between-two-balls](https://github.com/poseassome/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
