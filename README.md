@@ -179,6 +179,7 @@
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/poseassome/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/poseassome/LeetCode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/poseassome/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3484-design-spreadsheet](https://github.com/poseassome/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/poseassome/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -337,6 +338,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/poseassome/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/poseassome/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/poseassome/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3484-design-spreadsheet](https://github.com/poseassome/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poseassome/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/poseassome/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -484,6 +486,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/poseassome/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3396-valid-word](https://github.com/poseassome/LeetCode/tree/master/3396-valid-word) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/poseassome/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3484-design-spreadsheet](https://github.com/poseassome/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/poseassome/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/poseassome/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3684-substring-matching-pattern](https://github.com/poseassome/LeetCode/tree/master/3684-substring-matching-pattern) |
@@ -1015,6 +1018,7 @@
 | [1582-design-browser-history](https://github.com/poseassome/LeetCode/tree/master/1582-design-browser-history) |
 | [1955-seat-reservation-manager](https://github.com/poseassome/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/poseassome/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [3484-design-spreadsheet](https://github.com/poseassome/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Randomized
 |  |
@@ -1125,6 +1129,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/poseassome/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/poseassome/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3484-design-spreadsheet](https://github.com/poseassome/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3516-design-neighbor-sum-service](https://github.com/poseassome/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/poseassome/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/poseassome/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
