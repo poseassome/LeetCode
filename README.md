@@ -368,6 +368,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/poseassome/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/poseassome/LeetCode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/poseassome/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0837-new-21-game](https://github.com/poseassome/LeetCode/tree/master/0837-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/poseassome/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/poseassome/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/poseassome/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -943,6 +944,7 @@
 | [0788-rotated-digits](https://github.com/poseassome/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
+| [0837-new-21-game](https://github.com/poseassome/LeetCode/tree/master/0837-new-21-game) |
 | [0888-mirror-reflection](https://github.com/poseassome/LeetCode/tree/master/0888-mirror-reflection) |
 | [0892-surface-area-of-3d-shapes](https://github.com/poseassome/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1068,6 +1070,7 @@
 | [0813-largest-sum-of-averages](https://github.com/poseassome/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0815-champagne-tower](https://github.com/poseassome/LeetCode/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
+| [0837-new-21-game](https://github.com/poseassome/LeetCode/tree/master/0837-new-21-game) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/poseassome/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/poseassome/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -1329,6 +1332,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/poseassome/LeetCode/tree/master/0826-soup-servings) |
+| [0837-new-21-game](https://github.com/poseassome/LeetCode/tree/master/0837-new-21-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/poseassome/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Segment Tree
 |  |
