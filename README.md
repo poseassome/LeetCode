@@ -155,6 +155,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/poseassome/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/poseassome/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/poseassome/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/poseassome/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/poseassome/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
@@ -789,6 +790,7 @@
 | [1530-check-if-a-string-can-break-another-string](https://github.com/poseassome/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1652-minimum-suffix-flips](https://github.com/poseassome/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/poseassome/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1975-maximum-matrix-sum](https://github.com/poseassome/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/poseassome/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/poseassome/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/poseassome/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1127,6 +1129,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/poseassome/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/poseassome/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/poseassome/LeetCode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/poseassome/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/poseassome/LeetCode/tree/master/2035-count-sub-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/poseassome/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/poseassome/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
