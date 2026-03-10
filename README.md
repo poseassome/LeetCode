@@ -212,6 +212,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/poseassome/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/poseassome/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/poseassome/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3861-minimum-capacity-box](https://github.com/poseassome/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/poseassome/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/poseassome/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/poseassome/LeetCode/tree/master/3934-coupon-code-validator) |
