@@ -440,6 +440,7 @@
 | [0777-swap-adjacent-in-lr-string](https://github.com/poseassome/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
+| [0856-score-of-parentheses](https://github.com/poseassome/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/poseassome/LeetCode/tree/master/0868-push-dominoes) |
 | [0880-decoded-string-at-index](https://github.com/poseassome/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/poseassome/LeetCode/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -1315,6 +1316,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/poseassome/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/poseassome/LeetCode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/poseassome/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/poseassome/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0883-car-fleet](https://github.com/poseassome/LeetCode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/poseassome/LeetCode/tree/master/0937-online-stock-span) |
