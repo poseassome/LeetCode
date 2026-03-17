@@ -275,6 +275,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/poseassome/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/poseassome/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poseassome/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/poseassome/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0355-design-twitter](https://github.com/poseassome/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/poseassome/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/poseassome/LeetCode/tree/master/0383-ransom-note) |
@@ -413,6 +414,7 @@
 | [0093-restore-ip-addresses](https://github.com/poseassome/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/poseassome/LeetCode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/poseassome/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/poseassome/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/poseassome/LeetCode/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
@@ -925,6 +927,7 @@
 | [0002-add-two-numbers](https://github.com/poseassome/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/poseassome/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/poseassome/LeetCode/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/poseassome/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/poseassome/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/poseassome/LeetCode/tree/master/0223-rectangle-area) |
 | [0313-super-ugly-number](https://github.com/poseassome/LeetCode/tree/master/0313-super-ugly-number) |
