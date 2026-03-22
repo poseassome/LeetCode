@@ -419,6 +419,7 @@
 | [0131-palindrome-partitioning](https://github.com/poseassome/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/poseassome/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/poseassome/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0383-ransom-note](https://github.com/poseassome/LeetCode/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/poseassome/LeetCode/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/poseassome/LeetCode/tree/master/0415-add-strings) |
@@ -850,6 +851,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poseassome/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poseassome/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/poseassome/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -900,6 +902,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poseassome/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poseassome/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/poseassome/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/poseassome/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/poseassome/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -1322,6 +1325,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/poseassome/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/poseassome/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/poseassome/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/poseassome/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/poseassome/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/poseassome/LeetCode/tree/master/0735-asteroid-collision) |
