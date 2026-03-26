@@ -1451,4 +1451,5 @@
 | [0511-game-play-analysis-i](https://github.com/poseassome/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/poseassome/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0607-sales-person](https://github.com/poseassome/LeetCode/tree/master/0607-sales-person) |
+| [1084-sales-analysis-iii](https://github.com/poseassome/LeetCode/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
