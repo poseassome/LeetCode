@@ -79,6 +79,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/poseassome/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0817-linked-list-components](https://github.com/poseassome/LeetCode/tree/master/0817-linked-list-components) |
+| [0822-card-flipping-game](https://github.com/poseassome/LeetCode/tree/master/0822-card-flipping-game) |
 | [0826-most-profit-assigning-work](https://github.com/poseassome/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0827-expressive-words](https://github.com/poseassome/LeetCode/tree/master/0827-expressive-words) |
 | [0851-loud-and-rich](https://github.com/poseassome/LeetCode/tree/master/0851-loud-and-rich) |
@@ -303,6 +304,7 @@
 | [0797-rabbits-in-forest](https://github.com/poseassome/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/poseassome/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-linked-list-components](https://github.com/poseassome/LeetCode/tree/master/0817-linked-list-components) |
+| [0822-card-flipping-game](https://github.com/poseassome/LeetCode/tree/master/0822-card-flipping-game) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/poseassome/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/poseassome/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/poseassome/LeetCode/tree/master/0900-reordered-power-of-2) |
